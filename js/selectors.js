@@ -18,4 +18,5 @@ function divSelector(){
 }
 function firstListItem() {
 let firstItem=$("#pic-list ul li:first-child ")
+return firstItem
 }
