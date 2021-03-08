@@ -3,4 +3,3 @@ function paragraphSelector(){
   let newElement=$('p')
 return newElement
 }
-
