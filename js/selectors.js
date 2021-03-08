@@ -7,3 +7,7 @@ function lastImageSelector(){
   let lastImage=$("img:last")
   return lastImage
 }
+function ninjaBabySelector(){
+  let idSelector=$("#baby-ninja")
+  return idSelector
+}
