@@ -11,3 +11,8 @@ function ninjaBabySelector(){
   let idSelector=$("#baby-ninja")
   return idSelector
 }
+
+function divSelector(){
+  let classSelctor=$(".div.pics")
+  return classSelctor
+}
