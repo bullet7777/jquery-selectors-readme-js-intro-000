@@ -17,6 +17,6 @@ function divSelector(){
   return classSelctor
 }
 function firstListItem() {
-let firstItem=$("ul li #pic-list:first-child")
+let firstItem=$("ul li:first-child")
 return firstItem
 }
