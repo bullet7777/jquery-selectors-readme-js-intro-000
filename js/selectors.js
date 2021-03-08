@@ -13,6 +13,6 @@ function ninjaBabySelector(){
 }
 
 function divSelector(){
-  let classSelctor=$(".div.pics")
+  let classSelctor=$(".pics")
   return classSelctor
 }
